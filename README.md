@@ -1,4 +1,4 @@
-# Real-Time Cover Drive Analysis
+# CoverDriveIQ — Real-Time Cover Drive Analysis
 
 ## What this does (Base)
 - Processes a full cricket video frame-by-frame using MediaPipe pose.
